@@ -10,8 +10,8 @@ export default function Home() {
           <div className="md:w-1/2">
             {/* Contents */}
             <p className="text-lg font-semibold">
-              I am a full-stack developer, living in Ulaanbaatar (Mongolia). I
-              love trying modern technologies and learning new things.
+              I am a full-stack developer. I love trying modern technologies and
+              learning new things.
             </p>
 
             <p className="text-lg font-semibold my-4">

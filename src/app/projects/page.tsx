@@ -36,6 +36,14 @@ const projects: {
     description: "E-commerce web for Mindset Master Academy",
     link: "https://www.sellstream.shop/store/651ed071ea08fc96617b0efb/product/e546b878-cc7e-4bc5-ab04-ed993ab2b302",
   },
+
+  {
+     title: "Mongolian Trip",
+     buildWith: ["NextJS", "Tailwind", "TypeScript", "Prisma", "PostgreSQL"],
+     description: "Mongolian Trip is a travel agency website",
+     link: "https://mongoliantrip.com/",
+   },
+
   {
     title: "Sonos audio book web application",
     buildWith: [
